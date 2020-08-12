@@ -41,7 +41,7 @@ Go to [openweathermap.org](https://openweathermap.org/) and create an account. O
 On `.env` file...
 
 ```
-OPENWEATHER_KEY=************
+VUE_APP_WEATHER_KEY=************
 ```
 
 ### Accessing Key
@@ -50,7 +50,7 @@ OPENWEATHER_KEY=************
 data() {
     return {
     <!--variable : globalObject.environmentVariable -->
-        api_key  :  process.env.OPENWEATHER_KEY
+        api_key  :  process.env.VUE_APP_WEATHER_KEY
     }
 }
 ```
