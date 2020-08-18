@@ -1,4 +1,5 @@
-# vue-weather
+<img height="90px" align="left" src="https://santiagocodes.github.io/santiagocodes/images/octocat-santiagocodes.png" alt="santiagocodes octocat" />  
+# Weather Web App
 
 ## Project setup
 
